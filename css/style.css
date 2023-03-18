@@ -462,6 +462,7 @@ body {
     border-bottom: 2px solid white;
     color: white;
     background-color: transparent;
+    width: 90%;
 }
 
 /* .input::placeholder{
